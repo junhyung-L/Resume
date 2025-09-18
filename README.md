@@ -15,7 +15,8 @@
 
 ### Experience
 
-- 인천대학교 DIVE (Data Insights for Visionary Empowerment) 학부연구생 (2025.02 ~ )
+- 인천대학교 [DIVE (Data Insights for Visionary Empowerment)](https://github.com/thekimk/DIVE-Research) 학부연구생 (2025.02 ~ )
+- 지도교수: [김경원교수님](https://github.com/thekimk)
 
 ### Activities
 
