@@ -34,7 +34,7 @@
   
 ## Projects
 
-__Click for [Portfolio](https://github.com/junhyung-L/Resume/tree/main/Portfolio/README.md)
+### **More Details Click for [Portfolio](https://github.com/junhyung-L/Resume/tree/main/Portfolio/README.md)**
 
 - 2024년 임업통계 스마트활용 경진대회 🏆
     - 산림 공공데이터를 활용한 작물별 최적 재배지 추천 및 시각화 서비스 개발  
