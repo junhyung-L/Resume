@@ -33,7 +33,7 @@
   
 ## Projects
 
-__Click for [Portfolio](https://github.com/junhyung-L/Portfolio/README.md)__
+__Click for [Portfolio](https://github.com/junhyung-L/Portfolio/README.md)
 
 - 인스타그램 해시태그 추천 시스템
     - 이미지를 입력하면 입력 이미지와 유사한 K개의 이미지의 해시태그를 바탕으로 태그 전환 및 확장을 반복하여 추천 태그를 생성하여 출력
