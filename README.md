@@ -20,10 +20,10 @@
 
 ### Activities
 
-- 산림청, 임엄통계청에서 주관한 임업통계활용 경진대회 참가
+- 산림청, 임엄통계청에서 주관한 임업통계활용 경진대회 참가 (🏆 대상(1위) 수상)
 - 데이콘에서 주관한 신용카트 고객 세그먼트 경진대회 참가
 - 인천광역시에서 주관한 인천시공공데이터 활용 공모전 참가
-- 인천대학교에서 주관한 산학 캡스톤 경진대회 참가
+- 인천대학교에서 주관한 산학 캡스톤 경진대회 참가 (🏆 금상 수상)
 - 데이콘에서 주관한 고객페르소나를 통한 수요예측 경진대회 참가
 - 데이콘에세 주관한 CTR 예측 모델 개발 참가중
 
@@ -36,12 +36,12 @@
 
 __Click for [Portfolio](https://github.com/junhyung-L/Resume/tree/main/Portfolio/README.md)
 
-- 2024년 임업통계 스마트활용 경진대회  
+- 2024년 임업통계 스마트활용 경진대회 🏆
     - 산림 공공데이터를 활용한 작물별 최적 재배지 추천 및 시각화 서비스 개발  
     - `Python` `GeoPandas` `Matplotlib` `ML(SVM/RF/Logit)`  
     - [Github](https://github.com/junhyung-L/2024-Forestry-Statistics-Smart-Competition-Contest)
 
-- 인천e음 캐시백 정책 반응성 분석 & 전략 제언 (2025 산학 캡스톤)  
+- 인천e음 캐시백 정책 반응성 분석 & 전략 제언 (2025 산학 캡스톤) 🏆
     - 지역화폐 캐시백 타이밍 최적화를 위한 데이터 기반 정책 분석, LightGBM + ROI 시뮬레이션  
     - `Python` `LightGBM` `Time-series` `Survey` `TextMining`  
     - [Github](https://github.com/junhyung-L/2025-Industry-Academic-Capstone-Design-Competition)
