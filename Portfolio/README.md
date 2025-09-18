@@ -144,4 +144,48 @@
    - Kaggle Student Depression Dataset 활용, 노트북/리포트 구성.  
 
 2. Analysis  
+   - 변수 탐색·상관·시각화를 통해 위험 요인 정리, 분류 모델링(노트북 기반).
+
+* * * * *
+
+## CTR 광고 클릭 예측 모델 (Dacon) ->정리중
+- [Github](https://github.com/junhyung-L/TOSS-NEXT-ML-CHALLENGE-Development-of-Ad-Click-Prediction-CTR-Model)
+<!--
+- 대학생 데이터(502명·11변수) 기반 **우울증 위험 분류** 및 **주요 요인 분석**  
+- `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`  
+
+
+1. Data  
+   - Kaggle Student Depression Dataset 활용, 노트북/리포트 구성.  
+
+2. Analysis  
    - 변수 탐색·상관·시각화를 통해 위험 요인 정리, 분류 모델링(노트북 기반).  
+-->
+
+## 코드 표절률 검사기 ->정리중
+- [Github](https://github.com/junhyung-L/Code-Copydetector)
+<!--
+- 대학생 데이터(502명·11변수) 기반 **우울증 위험 분류** 및 **주요 요인 분석**  
+- `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`  
+
+
+1. Data  
+   - Kaggle Student Depression Dataset 활용, 노트북/리포트 구성.  
+
+2. Analysis  
+   - 변수 탐색·상관·시각화를 통해 위험 요인 정리, 분류 모델링(노트북 기반).  
+-->
+
+## Marketing Mix ->정리중
+- [Github](https://github.com/junhyung-L/Marketing-Mix)
+<!--
+- 대학생 데이터(502명·11변수) 기반 **우울증 위험 분류** 및 **주요 요인 분석**  
+- `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`  
+
+
+1. Data  
+   - Kaggle Student Depression Dataset 활용, 노트북/리포트 구성.  
+
+2. Analysis  
+   - 변수 탐색·상관·시각화를 통해 위험 요인 정리, 분류 모델링(노트북 기반).  
+-->
