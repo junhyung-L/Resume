@@ -35,6 +35,8 @@
 ## Projects
 
 ### **More Details Click for [Portfolio](https://github.com/junhyung-L/Resume/tree/main/Portfolio/README.md)**
+* * * 
+#### 진행완료 ###
 
 - 2024년 임업통계 스마트활용 경진대회 🏆
     - 산림 공공데이터를 활용한 작물별 최적 재배지 추천 및 시각화 서비스 개발  
@@ -75,7 +77,8 @@
     - 대학생 설문 데이터 기반 우울증 위험 분류 및 주요 요인 분석  
     - `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`  
     - [Github](https://github.com/junhyung-L/Development-of-Depression-Risk-Prediction-Model-and-Analysis-of-Key-Factors)
-
+* * * 
+#### 진행중 ###
 - CTR 광고 클릭 예측 모델 (Dacon) *-정리중*  
     - [Github](https://github.com/junhyung-L/TOSS-NEXT-ML-CHALLENGE-Development-of-Ad-Click-Prediction-CTR-Model)
 
@@ -85,6 +88,7 @@
 - Marketing Mix *-정리중*  
     - [Github](https://github.com/junhyung-L/Marketing-Mix)
 
+* * * 
 ## Courses
 
 **교내 수강**  
