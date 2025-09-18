@@ -28,47 +28,61 @@
 
 ### Studying & Advising
 
-- [인천대학교 DIVE Study & Advising](https://github.com/junhyung-L/Dive-Study)
-- [Database SQL Study](https://github.com/junhyung-L/SQL-Study)
+- [인천대학교 DIVE Study & Advising](https://github.com/junhyung-L/Dive-Study) *-정리중*
+- [Database SQL Study](https://github.com/junhyung-L/SQL-Study) *-정리중*
   
 ## Projects
 
 __Click for [Portfolio](https://github.com/junhyung-L/Resume/tree/main/Portfolio/README.md)
 
-- 인스타그램 해시태그 추천 시스템
-    - 이미지를 입력하면 입력 이미지와 유사한 K개의 이미지의 해시태그를 바탕으로 태그 전환 및 확장을 반복하여 추천 태그를 생성하여 출력
-    - `Python` `Keras` `Deep Learning` `CV` `NLP`
-    - [Github](https://github.com/cheris8/Instagram-hashtag-generator)
-- 트랜스포머 구현
-    - Attention is all you need 논문을 리뷰하고 이를 바탕으로 트랜스포머 구현
-    - `Python` `Pytorch` `Deep Learning` `NLP`
-    - [Github](https://github.com/cheris8/ESC_NLP_FINAL)
-- 텍스트마이닝을 통한 드라마 가치 요인 개발 프로젝트
-    - 2018년 방영 드라마를 대상으로 네이버 뉴스기사, 네이버 블로그, 유튜브 댓글을 크롤링하여 토픽 모델링, 공기어 분석, 감성 분석을 통해 드라마 가치 요인을 규명
-    - `Python` `Gephi` `Machine Learning`
-    - [Slides](https://cheris8.github.io/text%20mining/TM-Project-Drama/)
-- 서울시 아파트 가격 예측 대시보드 구축
-    - 네이버에서 서울시 아파트 정보를 크롤링하여 DB에 저장하고 이를 불러와 가격을 예측하여 아파트 이름을 입력하면 가격을 출력하는 대시보드 구현
-    - `R` `Python` `SQL` `Machine Learning`
-    - [Github](https://github.com/cheris8/ProjectCasa)
-- 제주 신용카드 빅데이터 경진대회
-    - `R` `Python` `Machine Learning` 
-    - [Github](https://github.com/cheris8/2020_jeju_creditcard)
-- KBO 정규시즌 팀별 승률, 타율 및 방어율(평균자책점) 예측 
-    - `R` `Python` `Machine Learning`
-    - [Github](https://github.com/cheris8/Baseball_ChilliShrimp)
-- 서울시 행복도 예측 프로젝트
-    - 2014 서울서베이 데이터를 바탕으로 행복도에 영향을 미치는 요인 파악 및 행복도 예측
-    - `R` `Python` `Machine Learning`
-    - [Slides](https://github.com/cheris8/ESC-20SPRING/blob/master/파이널%20프로젝트/3조/20-1%20ESC%20파이널%20최종발표%20자료%203조.pdf)
-- 데이터사이언스 분야 분석 및 시각화
-    - 2019 캐글 서베이 데이터를 바탕으로 데이터사이언스 분야 업무 종사자 현황, 시장 동향, 기술 동향 등을 분석 및 대시보드로 시각화
-    - `R` `Tableau` `Visualization`
-    - [Slides]()
-- 서울시 아파트 가격 예측
-    - 다방 데이터를 크롤링 하여 서울 소재 아파트 가격 예측
-    - `R` `Machine Learning`
-    - [Slides]()
+- 2024년 임업통계 스마트활용 경진대회  
+    - 산림 공공데이터를 활용한 작물별 최적 재배지 추천 및 시각화 서비스 개발  
+    - `Python` `GeoPandas` `Matplotlib` `ML(SVM/RF/Logit)`  
+    - [Github](https://github.com/junhyung-L/2024-Forestry-Statistics-Smart-Competition-Contest)
+
+- 인천e음 캐시백 정책 반응성 분석 & 전략 제언 (2025 산학 캡스톤)  
+    - 지역화폐 캐시백 타이밍 최적화를 위한 데이터 기반 정책 분석, LightGBM + ROI 시뮬레이션  
+    - `Python` `LightGBM` `Time-series` `Survey` `TextMining`  
+    - [Github](https://github.com/junhyung-L/2025-Industry-Academic-Capstone-Design-Competition)
+
+- 신용카드 고객 세그먼트 분류 AI (Dacon)  
+    - 대규모 카드 데이터 기반 세그먼트 분류, XGBoost + CatBoost + Stacking  
+    - `Python` `XGBoost` `CatBoost` `Logistic` `Stacking` `Dask`  
+    - [Github](https://github.com/junhyung-L/Credit-Card-Customer-Segment-Classification-AI-Competition)
+
+- 폴린(Fallin): 고령자 낙상 위험 예측 및 안전 경로 안내 (제11회 인천 공공데이터)  
+    - 보행로 단위 낙상 위험도 산정 및 최저 위험 경로 안내 지도 구현  
+    - `Python` `Geo/DEM` `Folium` `KOSIS`  
+    - [Github](https://github.com/junhyung-L/The-11th-Incheon-Public-Data-Utilization-Competition)
+
+- 동원×KAIST AI Competition – 페르소나 기반 신제품 월별 수요 예측  
+    - LLM 기반 소비자 페르소나 시뮬레이션 + LightGBM 가격 모델 + Monte-Carlo 시뮬레이션  
+    - `Python` `LLM` `MonteCarlo` `LightGBM` `Forecast`  
+    - [Github](https://github.com/junhyung-L/2025-Dongwon_KAIST-AI-Competition-Unlocking-Future-Sales-Demographics)
+
+- SubLocal – 소상공인 구독 결제·정산 OMO (FIN:NECT Challenge)  
+    - 구독 기반 자동 결제/정산 플랫폼 기획 및 MVP/대시보드/아키텍처 제안  
+    - `Product Design` `Fintech` `Analytics` `Recommender`  
+    - [Github](https://github.com/junhyung-L/2025-FIN.NECT-Challenge)
+
+- EV 가격 예측 해커톤 (Read EVs With Data)  
+    - 전기차 스펙·주행거리·연식 기반 XGBoost 가격 회귀 예측 모델 개발  
+    - `Python` `XGBoost` `EDA` `Feature Importance`  
+    - [Github](https://github.com/junhyung-L/EV-Price-Forecast-Hackathon-Read-EVs-With-Data)
+
+- 우울증 위험 예측 모델 및 요인 분석  
+    - 대학생 설문 데이터 기반 우울증 위험 분류 및 주요 요인 분석  
+    - `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`  
+    - [Github](https://github.com/junhyung-L/Development-of-Depression-Risk-Prediction-Model-and-Analysis-of-Key-Factors)
+
+- CTR 광고 클릭 예측 모델 (Dacon) *-정리중*  
+    - [Github](https://github.com/junhyung-L/TOSS-NEXT-ML-CHALLENGE-Development-of-Ad-Click-Prediction-CTR-Model)
+
+- 코드 표절률 검사기 *-정리중*  
+    - [Github](https://github.com/junhyung-L/Code-Copydetector)
+
+- Marketing Mix *-정리중*  
+    - [Github](https://github.com/junhyung-L/Marketing-Mix)
 
 ## Courses
 
