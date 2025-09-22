@@ -34,7 +34,7 @@
 - [Database SQL Study](https://github.com/junhyung-L/SQL-Study) *-정리중*
   
 ## Projects
-
+---
 ### **More Details Click for [Portfolio](https://github.com/junhyung-L/Resume/tree/main/Portfolio/README.md)**
 * * * 
 #### 진행완료 ###
