@@ -80,14 +80,14 @@
     - [Github](https://github.com/junhyung-L/Development-of-Depression-Risk-Prediction-Model-and-Analysis-of-Key-Factors)
 * * * 
 #### 진행중 ###
+- Marketing Mix *-정리중* 📄
+    - [Github](https://github.com/junhyung-L/Marketing-Mix)
+
 - CTR 광고 클릭 예측 모델 (Dacon) *-정리중*  
     - [Github](https://github.com/junhyung-L/TOSS-NEXT-ML-CHALLENGE-Development-of-Ad-Click-Prediction-CTR-Model)
 
 - 코드 표절률 검사기 *-정리중*  
     - [Github](https://github.com/junhyung-L/Code-Copydetector)
-
-- Marketing Mix *-정리중*  
-    - [Github](https://github.com/junhyung-L/Marketing-Mix)
 
 * * * 
 ## Courses
@@ -103,8 +103,11 @@
     
 - 데이터
     - 컴퓨터프로그래밍, 데이터 프로그래밍, 프로그래밍 언어
-    - 비즈니스 애널리틱스, 강화학습
-    - 인공지능의사결정분석, 데이터베이스
+    - 비즈니스 애널리틱스, 강화학습, 데이터베이스
+ 
+**교외 수강** 
+- [디지털비즈니스애널리틱스(Digital Business Analytics)](https://github.com/thekimk/All-About-Deep-Learning)
+- [인공지능기반의사결정(AI Driven Decision Making)](https://github.com/thekimk/All-About-Deep-Learning)
 
 ## Skills
 
