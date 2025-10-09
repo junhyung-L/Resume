@@ -30,7 +30,7 @@
 
 ### Studying & Advising
 
-- [인천대학교 DIVE Study & Advising](https://github.com/junhyung-L/Dive-Study) *-정리중*
+- [인천대학교 DIVE Study & Advising](https://github.com/junhyung-L/Dive-Study)  (🏆 전공심화모임 금상 수상) *-정리중*
 - [Database SQL Study](https://github.com/junhyung-L/SQL-Study) *-정리중*
   
 ## Projects
