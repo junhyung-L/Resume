@@ -78,13 +78,15 @@
     - 대학생 설문 데이터 기반 우울증 위험 분류 및 주요 요인 분석  
     - `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`  
     - [Github](https://github.com/junhyung-L/Development-of-Depression-Risk-Prediction-Model-and-Analysis-of-Key-Factors)
+ 
+- CTR 광고 클릭 예측 모델 (Dacon) *-정리중*  
+    - [Github](https://github.com/junhyung-L/TOSS-NEXT-ML-CHALLENGE-Development-of-Ad-Click-Prediction-CTR-Model)
+ 
+
 * * * 
 #### 진행중 ###
 - Marketing Mix *-정리중* 📄
     - [Github](https://github.com/junhyung-L/Marketing-Mix)
-
-- CTR 광고 클릭 예측 모델 (Dacon) *-정리중*  
-    - [Github](https://github.com/junhyung-L/TOSS-NEXT-ML-CHALLENGE-Development-of-Ad-Click-Prediction-CTR-Model)
 
 - 코드 표절률 검사기 *-정리중*  
     - [Github](https://github.com/junhyung-L/Code-Copydetector)
