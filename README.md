@@ -46,8 +46,8 @@
 
 - 인천e음 캐시백 정책 반응성 분석 & 전략 제언 (2025 산학 캡스톤) 🏆
     - 지역화폐 캐시백 타이밍 최적화를 위한 데이터 기반 정책 분석, LightGBM + ROI 시뮬레이션  
-    - `Python` `LightGBM` `Time-series` `Survey` `중* 📄
-    - [Github](https://github.com/junhyung-L/Marketing-Mix)
+    - `Python` `LightGBM` `Time-series` `Survey`
+    - [Github](https://github.com/junhyung-L/2025-Industry-Academic-Capstone-Design-Competition)
 
 - 코드 표절률 검사기 *-정리중*  
     - [Github](https://github.com/junhyung-L/Code-Copydetector)
