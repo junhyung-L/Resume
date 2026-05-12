@@ -183,11 +183,6 @@
 
 ---
 
-## 코드 표절률 검사기 – 정리중
-- [Github](https://github.com/junhyung-L/Code-Copydetector)
-
----
-
 ## Marketing Mix – 정리중
 - [Github](https://github.com/junhyung-L/Marketing-Mix)
 
