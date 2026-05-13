@@ -35,10 +35,11 @@ Data Analyst and AI Engineer specializing in Data-Centric AI and Explainable AI 
 
 ---
 
-## Honors & Awards
+## Honors & Major Achievements
 - **Grand Prize** (1st Place) | 2024 Forestry Statistics Smart Competition (Korea Forest Service)
 - **Grand Prize** (1st Place) | 2025 PBL Program for Urban Revitalization (Incheon City)
 - **Gold Prize** | 2025 Industry-Academic Capstone Design Competition (Incheon University)
+- **Academic Paper** | "Investigating Marketing Fatigue and Purchase Dynamics" (Under Review at KCI)
 
 ---
 
