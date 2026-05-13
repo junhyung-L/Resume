@@ -35,7 +35,7 @@
   
 ## Projects
 ---
-### **More Details Click for [Portfolio](https://github.com/junhyung-L/Resume/tree/main/Portfolio/README.md)**
+### **More Details Click for [Portfolio](https://github.com/junhyung-L/Portfolio)**
 * * * 
 #### 진행완료 ###
 
