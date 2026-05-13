@@ -13,20 +13,20 @@ Data Analyst and AI Engineer specializing in Data-Centric AI and Explainable AI 
 ## Selected Projects & Impact
 > For full technical deep-dives and architectures, please visit my [Master Portfolio](https://github.com/junhyung-L/Portfolio).
 
-**1. Marketing Fatigue & Decay Modeling (Paper Under Review)**
+**1. 2025 PBL Program: Dong-Incheon Area Revitalization (Incheon Mayor's Award - 1st Place)**
+- Established targeted marketing strategies based on commercial district analysis.
+- Achieved **600% traffic growth** for MZ generation and **25% sales increase**.
+- *구도심 상권 분석 기반 타겟 마케팅 전략 수립. 그로스해킹을 통한 MZ세대 트래픽 600% 및 매출 25% 증대 달성.*
+
+**2. 2024 Forestry Statistics Smart Competition (Grand Prize - 1st Place)**
+- Built an optimal cultivation site recommendation and yield prediction model combining heterogeneous data.
+- Leveraged spatial analysis and machine learning to create a working business model.
+- *산림 공공데이터를 활용한 작물별 최적 재배지 추천 및 시각화 서비스 개발. 공간 연산 및 머신러닝 활용.*
+
+**3. Marketing Fatigue & Decay Modeling (Paper Under Review)**
 - Operationalized marketing theories into decay functions on sparse logs.
 - Proposed a **13.1% cost reduction** strategy via SHAP analysis.
 - *극도의 희소 데이터에서 마케팅 이론을 수학적으로 구현하여 마케팅 비용 13.1% 절감 솔루션 제시.*
-
-**2. AI Roleplay Job Simulator**
-- Built a zero-shot, role-locked simulator with parallel API processing.
-- Achieved **<5s latency** for dynamic, non-cooperative persona interactions.
-- *역할 고정 프롬프트 및 비동기 처리를 통해 5초 미만 지연 시간의 평가 시스템 구축.*
-
-**3. Toss Next ML Challenge (CTR Prediction)**
-- Engineered a DCN-V2 + DIN hybrid recommendation pipeline.
-- Solved OOM issues using Hash Embedding for high-cardinality features.
-- *초고차원 데이터 처리를 위한 DCN-V2 + DIN 하이브리드 아키텍처 및 Hash Embedding 설계.*
 
 ---
 
