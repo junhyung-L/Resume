@@ -14,24 +14,24 @@ Data Analyst and AI Engineer specializing in Data-Centric AI and Explainable AI 
 > 👉 For the full list of projects and detailed architectures, please visit my **[Master Portfolio](https://github.com/junhyung-L/Portfolio)**.
 
 **1. 2025 PBL Program: Dong-Incheon Area Revitalization (Incheon Mayor's Award - 1st Place)**
-- Established targeted marketing strategies based on commercial district analysis.
-- Achieved **600% traffic growth** for MZ generation and **25% sales increase**.
-- *구도심 상권 분석 기반 타겟 마케팅 전략 수립. 그로스해킹을 통한 MZ세대 트래픽 600% 및 매출 25% 증대 달성.*
+- Diagnosed extreme commercial decline (**40% vacancy rate**) and executed a real-world PoC on legacy merchants.
+- Achieved **600% traffic growth** for the MZ generation and **25% sales increase** via Naver Map optimization and experience design.
+- *구도심 공동화(공실률 40%) 문제를 진단하고, 전통 점포 대상 PoC를 통해 MZ세대 트래픽 600% 및 매출 25% 증대 달성.*
 
 **2. AI Roleplay Job Simulator (GenAI & Product)**
-- Built a zero-shot, role-locked simulator with parallel API processing.
-- Achieved **<5s latency** for dynamic, non-cooperative persona interactions.
-- *역할 고정 프롬프트 및 비동기 처리를 통해 5초 미만 지연 시간의 평가 시스템 구축.*
+- Architected a zero-shot, role-locked simulator with a 3x3 Multi-Dimensional Persona Matrix.
+- Implemented parallel API processing to ensure **<5s latency** for dynamic evaluation streaming.
+- *역할 고정 프롬프트 및 비동기 처리를 통해 5초 미만 지연 시간의 실시간 역량 평가 시스템 구축.*
 
 **3. Toss Next ML Challenge (Deep Learning & RecSys)**
-- Engineered a DCN-V2 + DIN hybrid recommendation pipeline.
-- Solved OOM issues using Hash Embedding for high-cardinality features.
+- Designed a hybrid recommendation architecture combining **DCN-V2 (CrossNetMix)** and **DIN**.
+- Solved OOM issues on ultra-high dimensional sparse data using **Hash Embedding** (262k buckets).
 - *초고차원 데이터 처리를 위한 DCN-V2 + DIN 하이브리드 아키텍처 및 Hash Embedding 설계.*
 
 **4. Marketing Fatigue & Decay Modeling (Research & Stats)**
-- Operationalized marketing theories into decay functions on sparse logs.
+- Operationalized Weber-Fechner Law and Buy Till You Die theories into mathematical decay functions on 170M+ sparse events (0.12% CTR).
 - Proposed a **13.1% cost reduction** strategy via SHAP analysis. *(Paper Under Review at KCI)*
-- *극도의 희소 데이터에서 마케팅 이론을 수학적으로 구현하여 마케팅 비용 13.1% 절감 솔루션 제시.*
+- *극도의 희소 데이터에서 마케팅 피로도 이론을 수학적으로 구현하여 마케팅 비용 13.1% 절감 솔루션 제시.*
 
 ---
 
@@ -45,7 +45,7 @@ Data Analyst and AI Engineer specializing in Data-Centric AI and Explainable AI 
 
 ## Experience & Education
 - **Researcher (Undergrad)** | [DIVE Lab](https://github.com/thekimk/DIVE-Research) (2025.02 - Present)
-  - Advised by **[Prof. Kyung-Won Kim](https://github.com/thekimk)**. Focusing on advanced ML applications and Causal Inference.
+  - Advised by **[Prof. Kyung-Won Kim](https://github.com/thekimk)**. Researching Causal Inference and Quasi-experimental design to estimate treatment effects of marketing fatigue.
 - **B.S. in Industrial & Management Engineering** | Incheon National University (2024.03 - Present)
 - **B.S. in Industrial & Management Engineering** | Korea National University of Transportation (2020.03 - 2023.12)
 
