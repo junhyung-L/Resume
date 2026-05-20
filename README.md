@@ -4,7 +4,7 @@
 ---
 
 ## Professional Summary
-Data Analyst and AI Engineer specializing in Data-Centric AI and Explainable AI (XAI). Proven track record of delivering business ROI through predictive modeling and policy simulation, highlighted by a Triple Crown in major analytics competitions.
+Data Scientist and Analyst  specializing in Data-Centric AI and Explainable AI (XAI). Proven track record of delivering business ROI through predictive modeling and policy simulation, highlighted by a Triple Crown in major analytics competitions.
 
 *복잡한 데이터에서 비즈니스 ROI를 창출하고, 설명 가능한 AI(XAI)와 도메인 최적화를 추구하는 데이터 분석가 / AI 엔지니어입니다. 주요 경진대회 및 학산 대회에서 총 3관왕을 달성하며 데이터 기반 문제 해결 능력을 입증했습니다.*
 
