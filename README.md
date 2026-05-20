@@ -69,4 +69,4 @@ Data Scientist and Analyst  specializing in Data-Centric AI and Explainable AI (
 - **Advanced Courses**: [Digital Business Analytics](https://github.com/thekimk/All-About-Deep-Learning), [AI-Driven Decision Making](https://github.com/thekimk/All-About-Deep-Learning)
 
 ---
-*Refactored and polished to meet professional software engineering standards for the [Data Analyst Resume](https://github.com/junhyung-L/Resume).*
+*Refactored and polished to meet professional software engineering standards for the [Resume](https://github.com/junhyung-L/Resume).*
