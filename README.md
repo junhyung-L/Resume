@@ -1,5 +1,5 @@
 # Junhyung Lee (이준형)
-[jun010914@inu.ac.kr](mailto:jun010914@inu.ac.kr) | [GitHub](https://github.com/junhyung-L) | [Master Portfolio](https://github.com/junhyung-L/Portfolio)
+[jun010914@inu.ac.kr](mailto:jun010914@inu.ac.kr) | [GitHub](https://github.com/junhyung-L) | [LinkedIn](https://www.linkedin.com/in/junhyung-lee-data) | [Master Portfolio](https://github.com/junhyung-L/Portfolio)
 
 ---
 
