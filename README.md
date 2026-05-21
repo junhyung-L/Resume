@@ -52,7 +52,7 @@ Data Scientist and Analyst  specializing in Data-Centric AI and Explainable AI (
 ---
 
 ## Skills & Certifications
-- **Programming**: Python, PyTorch, Scikit-Learn, Pandas, Next.js
+- **Programming & BI**: Python, PyTorch, Scikit-Learn, Pandas, Next.js, Tableau
 - **Data & Cloud**: SQL, PostgreSQL, BigQuery, Dask (Distributed Processing)
 - **Domain Focus**: Machine Learning, Deep Learning (RecSys), GIS, Causal Inference, XAI
 - **Certifications**: 
