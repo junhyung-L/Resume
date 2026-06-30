@@ -30,7 +30,7 @@ Data Scientist and Analyst  specializing in Data-Centric AI and Explainable AI (
 
 **4. Marketing Fatigue & Decay Modeling (Research & Stats)**
 - Operationalized Weber-Fechner Law and Buy Till You Die theories into mathematical decay functions on 170M+ sparse events (0.12% CTR).
-- Proposed a **13.1% cost reduction** strategy via SHAP analysis. *(Paper Under Review at KCI)*
+- Proposed a **13.1% cost reduction** strategy via SHAP analysis.
 - *극도의 희소 데이터에서 마케팅 피로도 이론을 수학적으로 구현하여 마케팅 비용 13.1% 절감 솔루션 제시.*
 
 ---
@@ -39,7 +39,7 @@ Data Scientist and Analyst  specializing in Data-Centric AI and Explainable AI (
 - **Grand Prize** (1st Place) | 2024 Forestry Statistics Smart Competition (Korea Forest Service)
 - **Grand Prize** (1st Place) | 2025 PBL Program for Urban Revitalization (Incheon City)
 - **Gold Prize** | 2025 Industry-Academic Capstone Design Competition (Incheon University)
-- **Academic Paper** | "Investigating Marketing Fatigue and Purchase Dynamics" (Under Review at KCI)
+- **Academic Paper** | "Investigating Marketing Fatigue and Purchase Dynamics"
 
 ---
 
