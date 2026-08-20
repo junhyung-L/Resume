@@ -1,72 +1,59 @@
-# Junhyung Lee (이준형)
-[jun010914@inu.ac.kr](mailto:jun010914@inu.ac.kr) | [GitHub](https://github.com/junhyung-L) | [LinkedIn](https://www.linkedin.com/in/junhyung-lee-data) | [Master Portfolio](https://github.com/junhyung-L/Portfolio)
+# 이준형 | 데이터 사이언티스트 · AI 엔지니어
 
----
+[English](README.en.md)
 
-## Professional Summary
-Data Scientist and Analyst  specializing in Data-Centric AI and Explainable AI (XAI). Proven track record of delivering business ROI through predictive modeling and policy simulation, highlighted by a Triple Crown in major analytics competitions.
+[jun010914@inu.ac.kr](mailto:jun010914@inu.ac.kr) · [GitHub](https://github.com/junhyung-L) · [LinkedIn](https://www.linkedin.com/in/junhyung-lee-data) · [Portfolio](https://github.com/junhyung-L/Portfolio)
 
-*복잡한 데이터에서 비즈니스 ROI를 창출하고, 설명 가능한 AI(XAI)와 도메인 최적화를 추구하는 데이터 사이언티스트 / 분석가입니다. 주요 경진대회 및 학산 대회에서 총 3관왕을 달성하며 데이터 기반 문제 해결 능력을 입증했습니다.*
+## 소개
 
----
+정형·시계열·공간 데이터를 바탕으로 예측과 의사결정 지원 도구를 만듭니다. 모델 성능만 제시하기보다 데이터 범위, 검증 방법, 결과가 실제로 의미하는 바를 함께 설명하는 분석을 지향합니다.
 
-## Selected Projects & Impact
-> 👉 For the full list of projects and detailed architectures, please visit my **[Master Portfolio](https://github.com/junhyung-L/Portfolio)**.
+## 수상 프로젝트
 
-**1. 2025 PBL Program: Dong-Incheon Area Revitalization (Incheon Mayor's Award - 1st Place)**
-- Diagnosed extreme commercial decline (**40% vacancy rate**) and executed a real-world PoC on legacy merchants.
-- Achieved **600% traffic growth** for the MZ generation and **25% sales increase** via Naver Map optimization and experience design.
-- *구도심 공동화(공실률 40%) 문제를 진단하고, 전통 점포 대상 PoC를 통해 MZ세대 트래픽 600% 및 매출 25% 증대 달성.*
+### 동인천 구도심 활성화 PBL | 대상 · 인천광역시장상(1위)
 
-**2. AI Roleplay Job Simulator (GenAI & Product)**
-- Architected a zero-shot, role-locked simulator with a 3x3 Multi-Dimensional Persona Matrix.
-- Implemented parallel API processing to ensure **<5s latency** for dynamic evaluation streaming.
-- *역할 고정 프롬프트 및 비동기 처리를 통해 5초 미만 지연 시간의 실시간 역량 평가 시스템 구축.*
+- **수상일/주최:** 2026.02.27 · 인천광역시 주최, 인천대학교 주관
+- **프로젝트:** Marketing & Data Analysis 역할로 공실 데이터와 현장 조사 내용을 정리하고, 마담티 30일 마케팅 파일럿에 참여했습니다.
 
-**3. Toss Next ML Challenge (Deep Learning & RecSys)**
-- Designed a hybrid recommendation architecture combining **DCN-V2 (CrossNetMix)** and **DIN**.
-- Solved OOM issues on ultra-high dimensional sparse data using **Hash Embedding** (262k buckets).
-- *초고차원 데이터 처리를 위한 DCN-V2 + DIN 하이브리드 아키텍처 및 Hash Embedding 설계.*
+### 산림 작물 적합지 및 생산량 분석 | 대상 · 산림청장상(1위)
 
-**4. Marketing Fatigue & Decay Modeling (Research & Stats)**
-- Operationalized Weber-Fechner Law and Buy Till You Die theories into mathematical decay functions on 170M+ sparse events (0.12% CTR).
-- Proposed a **13.1% cost reduction** strategy via SHAP analysis.
-- *극도의 희소 데이터에서 마케팅 피로도 이론을 수학적으로 구현하여 마케팅 비용 13.1% 절감 솔루션 제시.*
+- **수상일/주최:** 2024.12.13 · 산림청·한국임업진흥원
+- **프로젝트:** GIS·기후·토양·생산 데이터를 결합하고, 통계 검정과 작물별 분류·회귀 모델로 재배 후보지를 분석했습니다.
 
----
+### 인천 e음 캐시백 정책 시뮬레이션 | 금상
 
-## Honors & Major Achievements
-- **Grand Prize** (1st Place) | 2024 Forestry Statistics Smart Competition (Korea Forest Service)
-- **Grand Prize** (1st Place) | 2025 PBL Program for Urban Revitalization (Incheon City)
-- **Gold Prize** | 2025 Industry-Academic Capstone Design Competition (Incheon University)
-- **Academic Paper** | "Investigating Marketing Fatigue and Purchase Dynamics"
+- **수상일/주최:** 2025.07.01 · 인천대학교 산학 캡스톤디자인 경진대회
+- **프로젝트:** 지역 소비 예측을 바탕으로 예산 제약 아래 66개 캐시백 정책 조합을 비교했습니다.
 
----
+## 연구
 
-## Experience & Education
-- **Researcher (Undergrad)** | [DIVE Lab](https://github.com/thekimk/DIVE-Research) (2025.02 - Present)
-  - Advised by **[Prof. Kyung-Won Kim](https://github.com/thekimk)**. Researching Causal Inference and Quasi-experimental design to estimate treatment effects of marketing fatigue.
-- **B.S. in Industrial & Management Engineering** | Incheon National University (2024.03 - Present)
-- **B.S. in Industrial & Management Engineering** | Korea National University of Transportation (2020.03 - 2023.12)
+### 마케팅 피로도와 구매 전환 예측 | 연구 원고
 
----
+- REES46 이커머스 CRM 로그 약 1억 7,200만 건(고객 약 185만 명, 캠페인 1,907개)을 바탕으로 구매 주기·반응 시점·피로도·채널 효과성 피처를 설계했습니다.
+- 원고의 원분포 holdout에서 도메인 피처 XGBoost는 F1 0.3806, PR-AUC 0.3620을 기록했습니다. 상위 0.78% 타겟팅 분석의 전환 95.83% 포착·후보 99.22% 감소는 오프라인 모의 선별 결과이며 실제 비용 절감 실적은 아닙니다.
 
-## Skills & Certifications
-- **Programming & BI**: Python, PyTorch, Scikit-Learn, Pandas, Next.js, Tableau
-- **Data & Cloud**: SQL, PostgreSQL, BigQuery, Dask (Distributed Processing)
-- **Domain Focus**: Machine Learning, Deep Learning (RecSys), GIS, Causal Inference, XAI
-- **Certifications**: 
-  - Google Data Analytics Professional Certificate
-  - ADsP (Advanced Data Analytics Semi-Professional)
-  - SQLD (SQL Developer)
+## 기술 프로젝트
 
----
+- **CTR 예측:** DCN-V2와 DIN·DIEN·BST 시퀀스 인코더를 비교했습니다. 보관된 DIEN 검증 결과는 ROC-AUC 0.7413, PR-AUC 0.0792입니다.
+- **중고 전기차 가격 예측:** 배터리 용량 대체 모델과 XGBoost 가격 회귀를 분리했습니다. 사용자 확인 DACON 정규화 RMSE는 0.919입니다.
+- **신용카드 세그먼트 분류:** 약 24만 고객·857개 변수의 결측 처리와 CatBoost·스태킹을 비교했습니다. 2만 건 검증 스태킹 weighted F1은 0.8936입니다.
+- **LLM 역할극 앱:** Next.js로 역할극·세션·피드백 API를 구현하고, 실제 LLM 경로와 자격증명 없는 데모 경로를 분리했습니다.
 
-## Academic Coursework
-- **Mathematics**: Basic Math, General Math, College Math 1, Linear Algebra
-- **Statistics**: Probability & Statistics, Applied Statistics, Statistics, Statistical Quality Control
-- **Computer Science**: Computer Programming, Data Programming, Database, Reinforcement Learning
-- **Advanced Courses**: [Digital Business Analytics](https://github.com/thekimk/All-About-Deep-Learning), [AI-Driven Decision Making](https://github.com/thekimk/All-About-Deep-Learning)
+## 경험 및 학력
 
----
-*Refactored and polished to meet professional software engineering standards for the [Resume](https://github.com/junhyung-L/Resume).*
+- **인턴** | 하나금융융합기술원 BigData&AI Cell, 2026.07.13–현재
+- **학부 연구원** | [DIVE Lab](https://github.com/thekimk/DIVE-Research), 2025.02–2026.02 — 마케팅 피로도의 처치 효과를 추정하기 위한 인과추론·준실험 설계 연구
+- **산업경영공학 학사 과정** | 인천대학교, 2024.03–2026.02
+- **산업경영공학 학사** | 한국교통대학교, 2020.03–2023.12
+
+## 기술
+
+- **분석·개발:** Python, PyTorch, scikit-learn, Pandas, Next.js, Tableau
+- **데이터:** SQL, PostgreSQL, BigQuery, Dask
+- **관심 분야:** Machine Learning, RecSys, GIS, Causal Inference, XAI
+
+## 자격증
+
+Google Data Analytics Professional Certificate · ADsP · SQLD · 빅데이터분석기사
+
+상장 사본은 개인 정보 때문에 공개하지 않으며, 요청 시 제공할 수 있습니다.
