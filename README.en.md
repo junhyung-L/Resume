@@ -27,10 +27,10 @@ I build prediction and decision-support work across tabular, time-series, and sp
 
 ## Research
 
-### Marketing Fatigue and Purchase Conversion Prediction | Research manuscript
+### Marketing Fatigue and Purchase Conversion Prediction | First-author paper, *마케팅연구* (Korean Marketing Association), forthcoming Nov 2026
 
 - Designed purchase-cycle, temporal-response, fatigue, and channel-effectiveness features using approximately 172M REES46 e-commerce CRM logs (about 1.85M customers and 1,907 campaigns).
-- The manuscript reports domain-feature XGBoost F1 0.3806 and PR-AUC 0.3620 on its original-distribution holdout. Contacting the top 0.78% of scores captured 95.83% of conversions at a precision of about 15%, roughly 120x the base rate; this is an offline ranking result, not a measured campaign outcome.
+- The manuscript reports domain-feature XGBoost F1 0.3806 and PR-AUC 0.3620 on its original-distribution holdout. Contacting the top 0.78% of scores captured 95.83% of conversions at a precision of 15.26% (123.7x lift over random sending); this is an offline ranking result, not a measured campaign outcome.
 
 ## Technical projects
 
