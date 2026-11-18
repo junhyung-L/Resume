@@ -30,12 +30,12 @@ I build prediction and decision-support work across tabular, time-series, and sp
 ### Marketing Fatigue and Purchase Conversion Prediction | Research manuscript
 
 - Designed purchase-cycle, temporal-response, fatigue, and channel-effectiveness features using approximately 172M REES46 e-commerce CRM logs (about 1.85M customers and 1,907 campaigns).
-- The manuscript reports domain-feature XGBoost F1 0.3806 and PR-AUC 0.3620 on its original-distribution holdout. Its top-0.78% analysis captures 95.83% of conversions while selecting 99.22% fewer candidates; this is an offline ranking simulation, not realised savings.
+- The manuscript reports domain-feature XGBoost F1 0.3806 and PR-AUC 0.3620 on its original-distribution holdout. Contacting the top 0.78% of scores captured 95.83% of conversions at a precision of about 15%, roughly 120x the base rate; this is an offline ranking result, not a measured campaign outcome.
 
 ## Technical projects
 
 - **CTR prediction:** compared DCN-V2 with DIN, DIEN, and BST sequence encoders. Retained DIEN validation metrics are ROC-AUC 0.7413 and PR-AUC 0.0792.
-- **Used-EV pricing:** separated battery-capacity imputation from XGBoost price regression. The user-confirmed DACON normalized RMSE is 0.919.
+- **Used-EV pricing:** separated battery-capacity imputation from XGBoost price regression. DACON leaderboard normalized RMSE: 0.919.
 - **Credit-card segmentation:** compared missingness-aware CatBoost and stacking across 2,400,000 training rows and 857 features. Retained 20k-sample stacking weighted F1 is 0.8936.
 - **LLM roleplay app:** implemented Next.js roleplay, session, and feedback APIs with separate live-LLM and no-credential demo paths.
 
