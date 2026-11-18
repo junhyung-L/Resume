@@ -36,7 +36,7 @@ I build prediction and decision-support work across tabular, time-series, and sp
 
 - **CTR prediction:** compared DCN-V2 with DIN, DIEN, and BST sequence encoders. Retained DIEN validation metrics are ROC-AUC 0.7413 and PR-AUC 0.0792.
 - **Used-EV pricing:** separated battery-capacity imputation from XGBoost price regression. The user-confirmed DACON normalized RMSE is 0.919.
-- **Credit-card segmentation:** compared missingness-aware CatBoost and stacking across approximately 240k customers and 857 features. Retained 20k-sample stacking weighted F1 is 0.8936.
+- **Credit-card segmentation:** compared missingness-aware CatBoost and stacking across 2,400,000 training rows and 857 features. Retained 20k-sample stacking weighted F1 is 0.8936.
 - **LLM roleplay app:** implemented Next.js roleplay, session, and feedback APIs with separate live-LLM and no-credential demo paths.
 
 ## Experience and education
