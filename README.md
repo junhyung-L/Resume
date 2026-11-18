@@ -2,7 +2,7 @@
 
 [English](README.en.md)
 
-[jun010914@inu.ac.kr](mailto:jun010914@inu.ac.kr) · [GitHub](https://github.com/junhyung-L) · [LinkedIn](https://www.linkedin.com/in/junhyung-lee-data) · [포트폴리오](https://github.com/junhyung-L/Portfolio/blob/main/README.ko.md)
+[junhyunglee.kr@gmail.com](mailto:junhyunglee.kr@gmail.com) · [GitHub](https://github.com/junhyung-L) · [LinkedIn](https://www.linkedin.com/in/junhyung-lee-data) · [포트폴리오](https://github.com/junhyung-L/Portfolio/blob/main/README.ko.md)
 
 ## 소개
 
@@ -25,7 +25,7 @@
 - **[DCN-V2와 행동 시퀀스 인코더를 활용한 CTR 예측](https://github.com/junhyung-L/ctr-sequence-modeling):** DCN-V2에 DIN·DIEN·BST 시퀀스 인코더를 붙여 비교했습니다. DIEN 검증 PR-AUC 0.0792(무작위 대비 약 4배), ROC-AUC 0.7413.
 - **[신용카드 고객 세그먼트 분류](https://github.com/junhyung-L/credit-card-customer-segmentation):** 학습 240만 행·857개 컬럼의 결측 패턴별 처리와 CatBoost·스태킹을 비교했습니다. DACON private 0.6251(58위·상위 25%), 내부 표본 weighted F1 0.8936(다수 클래스 기준 0.7026).
 - **[중고 전기차 가격 예측](https://github.com/junhyung-L/used-ev-price-forecasting):** 배터리 용량 대체 모델과 XGBoost 가격 회귀를 분리했습니다. DACON 리더보드 정규화 RMSE 0.919.
-- **[Job Simulator AI](https://github.com/junhyung-L/ai-interview-simulator):** Next.js로 면접·고객 응대·영업 역할극과 피드백 API를 만들고, 실제 LLM 경로와 API 키 없는 데모 경로를 분리했습니다.
+- **[Job Simulator AI](https://github.com/junhyung-L/ai-interview-simulator):** 2026년 제1회 KEG 바이브코딩 콘테스트에서 8일 동안 개발. Next.js로 면접·고객 응대·영업 역할극과 피드백 API를 만들고, 실제 LLM 경로와 API 키 없는 데모 경로를 분리했습니다.
 
 ## 수상
 

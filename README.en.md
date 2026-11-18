@@ -2,7 +2,7 @@
 
 [한국어](README.md)
 
-[jun010914@inu.ac.kr](mailto:jun010914@inu.ac.kr) · [GitHub](https://github.com/junhyung-L) · [LinkedIn](https://www.linkedin.com/in/junhyung-lee-data) · [Portfolio](https://github.com/junhyung-L/Portfolio)
+[junhyunglee.kr@gmail.com](mailto:junhyunglee.kr@gmail.com) · [GitHub](https://github.com/junhyung-L) · [LinkedIn](https://www.linkedin.com/in/junhyung-lee-data) · [Portfolio](https://github.com/junhyung-L/Portfolio)
 
 ## Profile
 
@@ -25,7 +25,7 @@ I build prediction models and decision simulations from customer, policy, and sp
 - **[CTR Prediction with DCN-V2 and Behavior-Sequence Encoders](https://github.com/junhyung-L/ctr-sequence-modeling):** compared DIN, DIEN, and BST sequence encoders on a DCN-V2 backbone. DIEN validation PR-AUC 0.0792 (about 4x random), ROC-AUC 0.7413.
 - **[Credit-Card Customer Segment Classification](https://github.com/junhyung-L/credit-card-customer-segmentation):** compared missingness-aware CatBoost and stacking over 2,400,000 training rows and 857 columns. DACON private 0.6251 (58th, top 25%); internal-sample weighted F1 0.8936 vs 0.7026 majority baseline.
 - **[Used-EV Price Prediction](https://github.com/junhyung-L/used-ev-price-forecasting):** separated a battery-capacity imputation model from XGBoost price regression. DACON leaderboard normalized RMSE 0.919.
-- **[Job Simulator AI](https://github.com/junhyung-L/ai-interview-simulator):** built Next.js roleplay and feedback APIs for interview, customer-support, and sales practice, with separate live-LLM and keyless demo paths.
+- **[Job Simulator AI](https://github.com/junhyung-L/ai-interview-simulator):** built in 8 days for the 2026 KEG Vibe Coding Contest: Next.js roleplay and feedback APIs for interview, customer-support, and sales practice, with separate live-LLM and keyless demo paths.
 
 ## Awards
 
