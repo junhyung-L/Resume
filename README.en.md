@@ -10,7 +10,10 @@ I build prediction models and decision simulations from customer, policy, and sp
 
 ## Experience
 
-- **Intern** | BigData&AI Cell, Hana Financial Convergence Technology Institute, 13 Jul 2026–present
+- **Intern** | BigData&AI Cell, Hana Institute of Technology, 13 Jul 2026–present
+  - Wrote a reimplementation specification for an existing equity-rating model (market- and financial-data preprocessing and feature-engineering logic) and validated it by reimplementing the pipeline with AI-assisted coding and comparing outputs with the original.
+  - Implemented a credit-card scorecard model and analyzed blockchain data for fraud detection (FDS).
+  - Reviewed the features of the company's in-house data analysis and data science program and identified improvements.
 - **Undergraduate Researcher** | [DIVE Lab](https://github.com/thekimk/DIVE-Research), Incheon National University, Feb 2025–Feb 2026 — first author of the conversion-prediction paper below; follow-up causal-inference study on marketing-fatigue effects in progress
 
 ## Research
@@ -19,6 +22,10 @@ I build prediction models and decision simulations from customer, policy, and sp
 
 - Designed four groups of time-varying features (purchase cycle, temporal response, marketing fatigue, channel effectiveness) on 172 million REES46 CRM messages (about 1.85 million customers, 1,907 campaigns, 0.1234% conversion) and compared nine models.
 - XGBoost had the best F1 (0.3806) and PR-AUC (0.3620) on the original-distribution holdout and lifted recall from 0.3074 to 0.5230. The top 0.78% of messages captured 95.83% of conversions (precision 15.26%, 123.7x lift over random).
+
+### Context-Aware Conversion Intelligence | Second author, accepted for presentation at Ubi-Media 2027
+
+- Kyungwon Kim, Junhyung Lee. *Context-Aware Conversion Intelligence: A Data-Centric and Resource-Efficient Framework for Ultra-Sparse Multichannel E-Commerce Interactions*. Accepted for presentation at the 15th International Conference on Ubi-Media Computing (Okinawa, January 2027). Conference paper on the same data and features as the CRM study above; contributions: conceptualization and investigation.
 
 ## Projects
 

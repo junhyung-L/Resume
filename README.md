@@ -11,6 +11,9 @@
 ## 경력
 
 - **인턴** | 하나금융융합기술원 BigData&AI Cell, 2026.07.13–현재
+  - 기존 주식등급평가모형을 재구현할 수 있도록 시장·재무 데이터 전처리와 변수 생성 로직을 명세서로 정리하고, AI 보조 코딩으로 재구현해 원본 결과와 비교·검증했습니다.
+  - 신용카드 스코어카드 모형을 구현하고, 블록체인 데이터를 활용해 이상거래탐지(FDS) 분석을 수행했습니다.
+  - 사내 데이터 분석·사이언스 프로그램의 기능을 파악하고 개선 사항을 도출했습니다.
 - **학부연구생** | 인천대학교 [DIVE Lab](https://github.com/thekimk/DIVE-Research), 2025.02–2026.02 — 아래 구매 전환 예측 논문 제1저자, 마케팅 피로도 효과에 대한 인과추론 후속 연구 진행 중
 
 ## 연구
@@ -19,6 +22,10 @@
 
 - REES46 CRM 메시지 1억 7,200만 건(고객 약 185만 명, 캠페인 1,907개, 전환율 0.1234%)에서 구매 주기·시계열적 반응·마케팅 피로도·채널 효과성의 4대 동태적 피처군을 설계하고 9종 모형을 비교했습니다.
 - XGBoost가 원분포 holdout에서 F1 0.3806, PR-AUC 0.3620으로 가장 높았고, 재현율을 0.3074에서 0.5230으로 끌어올렸습니다. 상위 0.78% 메시지가 전환의 95.83%를 포착합니다(정밀도 15.26%, 무작위 대비 123.7배).
+
+### Context-Aware Conversion Intelligence | 제2저자, Ubi-Media 2027 발표 채택
+
+- 김경원, 이준형. 「Context-Aware Conversion Intelligence: A Data-Centric and Resource-Efficient Framework for Ultra-Sparse Multichannel E-Commerce Interactions」. 제15회 International Conference on Ubi-Media Computing(2027년 1월, 일본 오키나와) 발표 논문으로 채택. 위 CRM 연구와 같은 데이터·변수를 다룬 국제학술대회 논문이며, 기여는 Conceptualization, Investigation입니다.
 
 ## 프로젝트
 
